@@ -1,0 +1,8 @@
+{
+  "appId": "com.yathan.memoire",
+  "appName": "YATHAN",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#140F38"
+  }
+}
